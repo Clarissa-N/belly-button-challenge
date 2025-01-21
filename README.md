@@ -6,4 +6,4 @@ Using JavaScript to create an interactive dashboard to explore the Belly Button 
 **Static Folder:**
   - **js Folder:**
     - **.gitkeep**
-    - **app.js:** File containt the code to create the interactive dashboard.
+    - **app.js:** File containing the code to create the interactive dashboard.
